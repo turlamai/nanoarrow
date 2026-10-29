@@ -8,7 +8,7 @@
 @(define (tech-arrow . content) (apply tech #:key "Arrow columnar format" content))
 
 @title[#:tag "nanoarrow"]{nanoarrow: Arrow IPC for Racket}
-@author{turinglambdaai}
+@author{TurLamAI}
 
 @defmodule[nanoarrow]
 

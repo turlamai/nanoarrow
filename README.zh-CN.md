@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-[![CI](https://github.com/turinglambdaai/nanoarrow/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/nanoarrow/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/turlamai/nanoarrow/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/nanoarrow/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [Apache Arrow
 nanoarrow](https://arrow.apache.org/nanoarrow/) 的 Racket FFI 绑定：读写包含原始类型
